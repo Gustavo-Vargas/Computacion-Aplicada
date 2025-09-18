@@ -1,7 +1,7 @@
 # Pogramas de la materia de Computación Aplicada
 
-
 ## Elementos Basicos Parte 1
+### Actividad 2
 - p001-hola-mundo.py
 - p002-area-circulo.py
 - p003-area-triangulo.py
@@ -10,6 +10,8 @@
 - p006-conversor-temperatura.py
 - p007-entrada-multiple.py
 - p008-entrada-con-espacio.py
+
+### Actividad 3
 - p009-promedio-de-calificaciones.py
 - p010-operaciones-matematicas.py
 - p011-operadores-asignacion.py
@@ -17,7 +19,7 @@
 - p013-funciones-matematicas-precios.py
 - p014-funciones-trigonometricas.py
 
-## Tarea 1
+### Tarea 1
 - p015-hipotenusa-triangulo.py
 - p016-tercer-angulo.py
 - p017-convertir-temperatura.py
@@ -26,3 +28,12 @@
 - p020-numero-suerte.py
 - p021-distancia-entre-puntos.py
 - p022-resistencia-equivalente-paralelo.py
+
+### Actividad 4
+- p023-verificar-numero.py
+- p024-verificar-numero-v2.py
+- p025-verificar-suma.py
+- p026–convertir-temperaturas-v2.py
+- p027-calcular-paga-extra.py
+- p028-retira-cuenta.py
+- p029-calculadora-descuento.py
