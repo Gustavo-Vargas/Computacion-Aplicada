@@ -55,3 +55,13 @@
 - p041-aceptar-estudiante-v2.py
 - p042-precio-entrada-cine.py
 - p043-calculadora-anio-bisiesto.py 
+
+### Actividad 6
+- p036-conteo-ascendente.py
+- p037-conteo-ascendente-v2.py
+- p038-conteo-descendente.py
+- p039-conteo-descendente-v2.py
+- p040-multiplos-continue.py
+- p041-sumar-consecutivos.py
+- p042-conteo-numeros.py
+- p043-adivina-numero.py
