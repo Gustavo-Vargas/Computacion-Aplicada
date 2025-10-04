@@ -85,3 +85,6 @@
 
 ### Actividad 8
 - p065-SistemaPapeleria.py
+
+### Primer examen Parcial
+- p066–primer-examen-parcial.py
