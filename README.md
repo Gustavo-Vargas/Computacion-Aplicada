@@ -1,6 +1,6 @@
 # Pogramas de la materia de Computación Aplicada
 
-## Elementos Basicos Parte 1
+## 1.- Elementos Basicos
 ### Actividad 2
 - p001-hola-mundo.py
 - p002-area-circulo.py
@@ -29,6 +29,7 @@
 - p021-distancia-entre-puntos.py
 - p022-resistencia-equivalente-paralelo.py
 
+## 2.- Ejecucion Condicional
 ### Actividad 4
 - p023-verificar-numero.py
 - p024-verificar-numero-v2.py
@@ -56,6 +57,7 @@
 - p042-precio-entrada-cine.py
 - p043-calculadora-anio-bisiesto.py 
 
+## 3.- Ejecucion Repetitiva
 ### Actividad 6
 - p044-conteo-ascendente.py
 - p045-conteo-ascendente-v2.py
@@ -83,12 +85,6 @@
 - p063-numero-mayor.py
 - p064-verificar-palindromo.py
 
-### Actividad 8
-- p065-SistemaPapeleria.py
-
-### Primer examen Parcial
-- p066–primer-examen-parcial.py
-
 ## Ejecucion Repetitiva
 ### Actividad 9
 - p067-conteo-ascendente-for.py
@@ -100,3 +96,11 @@
 - p073-suma-promedio-numeros.py
 - p074-suma-mutiplos.py
 - p075-cifrado-cesar.py
+
+## 4.- Primer Examen parcial
+### Actividad 8
+- p065-SistemaPapeleria.py
+
+### Primer examen Parcial
+- p066–primer-examen-parcial.py
+
