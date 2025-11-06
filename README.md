@@ -97,7 +97,7 @@
 - p074-suma-mutiplos.py
 - p075-cifrado-cesar.py
 
-## 4.- Primer Examen parcial
+## Primer Examen parcial
 ### Actividad 8
 - p065-SistemaPapeleria.py
 
@@ -172,3 +172,6 @@
 ### Actividad 15
 - p121-municipios.py
 - p122-operaciones-conjuntos.py
+
+## Segundo Examen parcial
+- p125-segundo-examen-parcial.py
